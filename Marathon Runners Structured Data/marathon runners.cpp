@@ -31,6 +31,7 @@ void displayresults(Runner runners[], int runnerCount);
 
 int main()
 {
+
 	Runner runners[max_runners];
 	int runnerCount;
 
